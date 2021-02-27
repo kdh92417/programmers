@@ -1,0 +1,11 @@
+@import "nav.css";
+@import "header.css";
+@import "section_program.css";
+@import "component.css";
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Noto Sans KR', sans-serif;
+}
