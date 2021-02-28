@@ -28,3 +28,25 @@
     font-size: 32px;
     color: rgb(178, 192, 204);
 }
+
+.blue-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 42px;
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 7px 13px 9px 13px;
+    background-color: #0078FF;
+    border-color: #0078FF;
+    border-radius: 4px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.blue-btn:hover {
+    background-color: #1C54F4;
+}
+
+.header-main a {}

@@ -38,22 +38,5 @@
 }
 
 .header-main a {
-    display: flex;
-    justify-content: center;
-    align-items: center;
     width: 210px;
-    height: 42px;
-    color: white;
-    font-size: 16px;
-    font-weight: 500;
-    padding: 7px 13px 9px 13px;
-    background-color: #0078FF;
-    border-color: #0078FF;
-    border-radius: 4px;
-    cursor: pointer;
-    text-decoration: none;
-}
-
-.header-main a:hover {
-    background-color: #1C54F4;
 }

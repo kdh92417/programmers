@@ -1,0 +1,14 @@
+.section__code {
+    background-color: rgb(32, 43, 61);
+    width: 1169px;
+    height: 242px;
+    padding: 0px 64px;
+    border-radius: 12px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
+
+.section__code-cow img {
+    height: 160px;
+}

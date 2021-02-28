@@ -15,7 +15,7 @@
     color: #263747;
     display: flex;
     align-items: center;
-    font-size: 20px;
+    font-size: var(--sub-title);
     line-height: 1.6;
     margin-bottom: 16px;
 }
@@ -37,7 +37,7 @@
 
 .section__program-event-section {
     width: 565px;
-    border: 1px solid rgb(0, 0, 0, 0.07);
+    border: var(--box-border);
     border-radius: 10px;
 }
 
